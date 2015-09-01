@@ -1,16 +1,13 @@
 {
   "main": {
-    "ms-Latn": {
+    "ms-SG": {
       "identity": {
         "version": {
-          "_cldrVersion": "27.0.1",
-          "_number": "$Revision: 10669 $"
-        },
-        "generation": {
-          "_date": "$Date: 2014-07-23 16:10:33 -0500 (Wed, 23 Jul 2014) $"
+          "_cldrVersion": "28",
+          "_number": "$Revision: 11914 $"
         },
         "language": "ms",
-        "script": "Latn"
+        "territory": "SG"
       },
       "numbers": {
         "currencies": {
@@ -478,7 +475,8 @@
           "GEL": {
             "displayName": "Lari Georgia",
             "displayName-count-other": "Lari Georgia",
-            "symbol": "GEL"
+            "symbol": "GEL",
+            "symbol-alt-variant": "₾"
           },
           "GHC": {
             "displayName": "GHC",
@@ -1013,7 +1011,7 @@
             "displayName": "Ruble Rusia",
             "displayName-count-other": "Ruble Rusia",
             "symbol": "RUB",
-            "symbol-alt-variant": "₽"
+            "symbol-alt-narrow": "₽"
           },
           "RUR": {
             "displayName": "RUR",
@@ -1064,7 +1062,7 @@
           "SGD": {
             "displayName": "Dolar Singapura",
             "displayName-count-other": "Dolar Singapura",
-            "symbol": "SGD",
+            "symbol": "$",
             "symbol-alt-narrow": "$"
           },
           "SHP": {
@@ -1135,7 +1133,7 @@
           "THB": {
             "displayName": "Baht Thai",
             "displayName-count-other": "Baht Thai",
-            "symbol": "฿",
+            "symbol": "THB",
             "symbol-alt-narrow": "฿"
           },
           "TJR": {
