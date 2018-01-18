@@ -1253,7 +1253,8 @@
             "displayName": "Peruvian Sol",
             "displayName-count-one": "Peruvian sol",
             "displayName-count-other": "Peruvian soles",
-            "symbol": "PEN"
+            "symbol": "PEN",
+            "symbol-alt-narrow": "S/."
           },
           "PES": {
             "displayName": "Peruvian Sol (1863–1965)",
